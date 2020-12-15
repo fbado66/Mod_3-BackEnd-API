@@ -56,7 +56,7 @@ Allow users to upload a profile picture<br>
 
 
 ## Creators
-<a href='https://github.com/iannakim'>Anna Kim </a>
+<a href='https://github.com/iannakim'>Anna Kim </a><br>
 <a href='https://github.com/fbado66'>Franklin Bado</a>
 
 
